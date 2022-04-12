@@ -1,0 +1,216 @@
+{
+  "sellers": [
+    {
+      "send": "false",
+      "_id": "62558f6f76899cadb1af4712",
+      "name": "Carlos",
+      "identification_number": 1033212,
+      "email": "carlos@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [
+        {
+          "_id": "625591c5be5b08a20b91040a",
+          "status": "pendiente",
+          "method": "tarjeta de debito",
+          "country": "Colombia",
+          "amount": 2000
+        }
+      ],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T14:40:47.816Z",
+      "updatedAt": "2022-04-12T14:50:45.998Z"
+    },
+    {
+      "send": "false",
+      "_id": "62558f6f76899cadb1af4713",
+      "name": "valentina",
+      "identification_number": 101112332,
+      "email": "valentina@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T15:44:15.203Z",
+      "updatedAt": "2022-04-12T15:44:15.203Z"
+    },
+    {
+      "send": "false",
+      "_id": "62558f6f76899cadb1af4714",
+      "name": "Katherin",
+      "identification_number": 11133212,
+      "email": "katherin@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T15:44:29.048Z",
+      "updatedAt": "2022-04-12T15:44:29.048Z"
+    },
+    {
+      "send": "false",
+      "_id": "62558f6f76899cadb1af4715",
+      "name": "Karen",
+      "identification_number": 113321200,
+      "email": "karen@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T15:44:48.534Z",
+      "updatedAt": "2022-04-12T15:44:48.534Z"
+    },
+    {
+      "send": "false",
+      "_id": "62558f6f76899cadb1af4716",
+      "name": "jhon",
+      "identification_number": 11002133212,
+      "email": "jhon@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T15:45:03.433Z",
+      "updatedAt": "2022-04-12T15:45:03.433Z"
+    },
+    {
+      "_id": "62558f6f76899cadb1af4717",
+      "name": "Will",
+      "identification_number": 11034553212,
+      "email": "will@gmail.com",
+      "city": "Bogota",
+      "country": "Colombia",
+      "address": "Calle 44 # 02-32",
+      "phone": 3226557889,
+      "password": "avon1234",
+      "send": "false",
+      "role": [
+        {
+          "_id": "625587d40faeb1f5810cf20e",
+          "name": "seller"
+        }
+      ],
+      "account": [
+        {
+          "_id": "6254e71bd201ee70ace6094b",
+          "name": "avon"
+        }
+      ],
+      "payments": [],
+      "boards": [
+        {
+          "_id": "6254e741d201ee70ace6094e",
+          "name": "Tecnologia",
+          "type": "dulces"
+        }
+      ],
+      "createdAt": "2022-04-12T16:31:58.971Z",
+      "updatedAt": "2022-04-12T16:31:58.971Z"
+    }
+  ]
+}
